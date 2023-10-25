@@ -1,0 +1,38 @@
+팀장 - 프로젝트 준비
+
+ - 라이브러리 설정
+ - root-context.xml servlet-context.xml설정
+ - 로거 설정
+ - 패키지 설정
+  
+ - gitignore 설정 https://www.toptal.com/developers/gitignore/
+   .classpath
+   .project
+ 
+  완료
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
